@@ -9,7 +9,7 @@ The **⏰ Discord Time Stamp** is the most powerful tool for generating dynamic 
 
 <div align="center">
 
-[![Download Discord Time Stamp](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-time-stamp)
+[![Download Discord Time Stamp](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-time-stamp)
 
 </div>
 
@@ -112,7 +112,7 @@ You want simple timestamp generation. You want live preview. You want one-click 
 7. **🎯 Choose Format** — select timestamp style
 8. **📋 Copy & Paste** — copy code into Discord
 
-[![Download Discord Time Stamp](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-time-stamp)
+[![Download Discord Time Stamp](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-time-stamp)
 
 ### Creating a Timestamp
 
@@ -208,7 +208,7 @@ Never struggle with Discord timestamps again. **Discord Time Stamp** generates p
 
 <div align="center">
 
-[![Download Discord Time Stamp](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-time-stamp)
+[![Download Discord Time Stamp](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-time-stamp)
 
 **Version 4.6.1** — Dynamic Discord timestamps. Free forever.
 
